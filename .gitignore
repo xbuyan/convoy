@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+*.pem
+*.key
+
+# Build artifacts
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+
+# Go
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
